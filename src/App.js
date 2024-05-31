@@ -231,3 +231,7 @@ export default function App() {
     </>
   );
 }
+
+function placeholder() {
+  return "1";
+}
