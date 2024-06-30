@@ -96,8 +96,3 @@ EMPTY STAR
 
 
 */
-
-{
-  ornate_place;
-  how_can_one_be_so;
-}
