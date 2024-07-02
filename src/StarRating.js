@@ -21,11 +21,11 @@ export default function StarRating({ maxRating = 5 }) {
   function handleRating(rating) {
     setRating(rating);
   }
-
+  //state
   return (
     <div style={containerStyle}>
       <div style={starContainerStyle}>
-        {Array.from({ lenght: maxRating }, (_, i) => (
+        {Array.from({ length: maxRating }, (_, i) => (
           <Star
             key={i}
             onRate={() => handleRating(i + 1)}
