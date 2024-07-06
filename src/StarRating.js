@@ -95,6 +95,3 @@ EMPTY STAR
 
 
 
-*/
-//w
-bot;
